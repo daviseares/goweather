@@ -11,12 +11,6 @@
 - [ ] Chore (nenhuma das anteriores, como upgrade de libs)
 - [ ] Breaking change 🚨
 
-## Está de acordo com os critérios de aceite da estória? ✅
-
-- [ ] Resolve todos os critérios de aceite
-- [ ] Resolve partes do critério de aceite
-- [ ] Não resolve nenhum critério de aceite
-
 ## Checklist 🧐
 
 <!-- mobile -->
