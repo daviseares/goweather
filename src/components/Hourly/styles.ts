@@ -1,6 +1,7 @@
 import styled from 'styled-components/native';
 import { FlatList } from 'react-native';
 
+import FastImage from 'react-native-fast-image';
 import Colors from '../../theme/colors';
 
 interface ForecastItem {
@@ -41,7 +42,7 @@ export const Hour = styled.Text`
   font-size: 16px;
 `;
 
-export const Icon = styled.Image`
+export const Icon = styled(FastImage)`
   width: 69px;
   height: 69px;
 `;

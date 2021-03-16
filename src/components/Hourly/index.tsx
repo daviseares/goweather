@@ -39,6 +39,7 @@ const Hourly: React.FC<ForecastProps> = ({ forecastList }) => {
             <Icon
               source={{
                 uri: `https://openweathermap.org/img/wn/${item.weather[0].icon}@2x.png`,
+                priority: 'high',
               }}
               resizeMode="contain"
             />
